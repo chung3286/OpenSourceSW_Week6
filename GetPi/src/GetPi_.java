@@ -10,5 +10,7 @@ public class GetPi {
 		}
 		pi *= 4;
 		System.out.println(pi);
+
+		System.out.println("hellllllo");
 	}
 }
